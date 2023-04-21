@@ -9,6 +9,6 @@
     "sequelize": "^6.31.0"
   },
   "scripts": {
-    "start": "nodemon src/index.js"
+    "start": "node src/index.js"
   }
 }
