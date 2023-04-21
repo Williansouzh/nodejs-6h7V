@@ -9,6 +9,7 @@
     "sequelize": "^6.31.0"
   },
   "scripts": {
+    "build": "npm install",
     "start": "node src/index.js"
   }
 }
