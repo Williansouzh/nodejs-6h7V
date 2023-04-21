@@ -5,9 +5,10 @@
   "main": "index.js",
   "author": "alphasec",
   "license": "MIT",
-   "dependencies": {
+  "dependencies": {
+    "sequelize": "^6.31.0"
   },
   "scripts": {
-    "start": "node src/index.js"
+    "start": "nodemon src/index.js"
   }
 }
